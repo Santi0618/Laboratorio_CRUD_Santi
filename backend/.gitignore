@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.local
+.env.development
+.env.*.local
+nmp-debug-.log*
+
+
+uploads/equipos/*
+!uploads/equipos/.gitkeep
+
+**/package-lock.json
